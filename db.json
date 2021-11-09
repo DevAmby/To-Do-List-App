@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Coding challenge Day 5",
+      "day": "Oct 5th, 2021 at 6pm",
+      "reminder": true
+    },
+    {
+      "text": "Finish up the terms in your jottings",
+      "day": "Tomorrow babami",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
